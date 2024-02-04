@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[src/models/Organization.ts:184](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/models/Organization.ts#L184)
+[src/models/Organization.ts:184](https://github.com/PalisadoesFoundation/talawa-api/blob/b8b7d29/src/models/Organization.ts#L184)
